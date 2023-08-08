@@ -1,13 +1,5 @@
-# cobe54487ba99cc5506fe809e
+# My First Experience With Coding:
 
-## About Scrimba
+After watching an online tutorial on an HTML/CSS course for beginners from [FreeCodeCamp YouTube Channel](https://freecodecamp.org) taught by Per Borgen of [Scrimba,](https://scrimba.com/) I was able to create this project. As a beginner, I recognize that I have a long way to go, but I'm excited about my progress.
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
-
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
-
-Happy Coding!
+Happy Coding! 
